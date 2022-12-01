@@ -1,0 +1,10 @@
+github_users:
+  - knorth55
+
+github_repos:
+  - start-jsk/jsk_apc
+  - ros-drivers/audio_common
+  - jsk-ros-pkg/jsk_robot
+  - jsk-ros-pkg/coral_usb_ros
+  - knorth55/eus_vive
+  - knorth55/app_manager_utils

@@ -1,0 +1,69 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shingo Kitagawa
+    - name: Date of Birth
+      value: 4th December 1993
+    - name: Languages
+      value: English, Japanese
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. (Information Science and Technology)
+      institution: The University of Tokyo, Tokyo, Japan
+      year: 2022
+      description:
+        - Graduate School of Information Science and Technology
+        - Department of Creative Informatics 
+    - title: Master (Information Science and Technology)
+      institution: The University of Tokyo, Tokyo, Japan
+      year: 2019
+      description:
+        - Graduate School of Information Science and Technology
+        - Department of Creative Informatics 
+    - title: Bachelor (Engineering)
+      institution: The University of Tokyo, Tokyo, Japan
+      year: 2017
+      description:
+        - Faculty of Engineering 
+        - Department of Mechano-informatics
+- title: Experience
+  type: time_table
+  contents:
+    - title: Project Assistant Professor
+      institution: The University of Tokyo
+      year: 2022 -
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Robotics
+      items:
+        - Manipulation
+        - Robotics vision
+        - Learning
+    - title: User Interface
+      items:
+        - Tangible User Interface
+# - title:
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
