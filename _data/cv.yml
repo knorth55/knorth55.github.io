@@ -58,11 +58,13 @@
     - title: Robotics
       items:
         - Manipulation
-        - Robotics vision
-        - Learning
+        - Manipulation Learning
+        - Vision
+        - Teleoperation
     - title: User Interface
       items:
         - Tangible User Interface
+        - Teleoperation Interface
 # - title:
 #   type: list
 #   contents:
