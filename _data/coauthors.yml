@@ -1,9 +1,30 @@
-"Okada":
-  - firstname: ["Kei", "K."]
-    url: http://www.jsk.t.u-tokyo.ac.jp/~k-okada/index-e.html
-"Wada":
-  - firstname: ["Kentaro", "K."]
-    url: https://wkentaro.com/
 "Inaba":
   - firstname: ["Masayuki", "M."]
     url: http://www.jsk.t.u-tokyo.ac.jp/~inaba/
+"Okada":
+  - firstname: ["Kei", "K."]
+    url: http://www.jsk.t.u-tokyo.ac.jp/~k-okada/index-e.html
+"Kakiuchi":
+  - firstname: ["Yohei", "Y."]
+    url: https://scholar.google.com/citations?user=42S4kfwAAAAJ
+"Wada":
+  - firstname: ["Kentaro", "K."]
+    url: https://wkentaro.com/
+"Hasegawa":
+  - firstname: ["Shun", "S."]
+    url: https://scholar.google.co.jp/citations?user=j7wCnVMAAAAJ
+"Kawaharazuka":
+  - firstname: ["Kento", "K."]
+    url: https://haraduka.github.io
+"Yamaguchi":
+  - firstname: ["Naoya", "N."]
+    url: https://708yamaguchi.github.io/
+"Murooka":
+  - firstname: ["Takayuki", "T."]
+    url: https://takayuki5168.github.io/
+"Yoshida":
+  - firstname: ["Takatoshi", "T."]
+    url: https://takatoshiyoshida.myportfolio.com/
+"Inami":
+  - firstname: ["Masahiko", "M."]
+    url: https://star.rcast.u-tokyo.ac.jp/
