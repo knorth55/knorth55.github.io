@@ -18,9 +18,9 @@ Shingo Kitagawa was born in Japan in 1993.
 He received his B.Sc. (2017), M.Sc. (2019) and Ph.D. (2022)
 from School of Engineering and
 Graduate School of Information Science and Technology in The University of Tokyo (UTokyo).
-In his researc at UTokyo,
-he was working on manipulation learning, teleoperation teaching and
-robot-user interface at JSK Laboratory supervised by 
+In his research at UTokyo,
+he was working on manipulation learning, programming by teleoperation and
+user interface for manipulation at JSK Laboratory supervised by 
 Prof. Masayuki Inaba and Prof. Kei Okada.
 
 In 2022, he started working as a project assistant professor at JSK Laboratory in UTokyo.
