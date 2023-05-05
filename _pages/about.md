@@ -24,4 +24,4 @@ user interface for manipulation at JSK Laboratory supervised by
 Prof. Masayuki Inaba and Prof. Kei Okada.
 
 From April 2022 to March 2023, he worked as a project assistant professor at JSK Laboratory in UTokyo.
-From March 2023, he stared workign as a robotics software engineer at GITAI.
+From March 2023, he started working as a robotics software engineer at GITAI.
