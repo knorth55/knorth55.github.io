@@ -23,4 +23,5 @@ he was working on manipulation learning, programming by teleoperation and
 user interface for manipulation at JSK Laboratory supervised by 
 Prof. Masayuki Inaba and Prof. Kei Okada.
 
-In 2022, he started working as a project assistant professor at JSK Laboratory in UTokyo.
+From April 2022 to March 2023, he worked as a project assistant professor at JSK Laboratory in UTokyo.
+From March 2023, he stared workign as a robotics software engineer at GITAI.

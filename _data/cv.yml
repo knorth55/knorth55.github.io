@@ -15,25 +15,28 @@
       year: 2022
       description:
         - Graduate School of Information Science and Technology
-        - Department of Creative Informatics 
+        - Department of Creative Informatics
     - title: Master (Information Science and Technology)
       institution: The University of Tokyo, Tokyo, Japan
       year: 2019
       description:
         - Graduate School of Information Science and Technology
-        - Department of Creative Informatics 
+        - Department of Creative Informatics
     - title: Bachelor (Engineering)
       institution: The University of Tokyo, Tokyo, Japan
       year: 2017
       description:
-        - Faculty of Engineering 
+        - Faculty of Engineering
         - Department of Mechano-informatics
 - title: Experience
   type: time_table
   contents:
+    - title: Robotics Software Engineer
+      institution: GITAI
+      year: March 2023 -
     - title: Project Assistant Professor
       institution: The University of Tokyo
-      year: 2022 -
+      year: April 2022 - March 2023
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
