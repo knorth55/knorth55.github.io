@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Project Assistant Professor at the University of Tokyo 
+subtitle: Robotics software engineer at GITAI Inc., Ph.D. in Information Science and Technology
 
 profile:
   align: right
@@ -20,7 +20,7 @@ from School of Engineering and
 Graduate School of Information Science and Technology in The University of Tokyo (UTokyo).
 In his research at UTokyo,
 he was working on manipulation learning, programming by teleoperation and
-user interface for manipulation at JSK Laboratory supervised by 
+user interface for manipulation at JSK Laboratory supervised by
 Prof. Masayuki Inaba and Prof. Kei Okada.
 
 From April 2022 to March 2023, he worked as a project assistant professor at JSK Laboratory in UTokyo.
