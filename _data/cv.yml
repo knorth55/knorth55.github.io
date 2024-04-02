@@ -32,28 +32,14 @@
   type: time_table
   contents:
     - title: Robotics Software Engineer
-      institution: GITAI
-      year: 2023 -
+      institution: GITAI USA, Inc.
+      year: 2023.10 -
+    - title: Robotics Software Engineer
+      institution: GITAI Japan, Inc.
+      year: 2023.04 - 2023.09
     - title: Project Assistant Professor
       institution: The University of Tokyo
-      year: 2022 - 2023
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-#
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+      year: 2022.04 - 2023.04
 
 - title: Academic Interests
   type: nested_list
@@ -68,7 +54,3 @@
       items:
         - Tangible User Interface
         - Teleoperation Interface
-# - title:
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
