@@ -6,25 +6,25 @@
     - name: Date of Birth
       value: 4th December 1993
     - name: Languages
-      value: English, Japanese
+      value: English, Japanese, French
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. (Information Science and Technology)
       institution: The University of Tokyo, Tokyo, Japan
-      year: 2022
+      year: 2022.03
       description:
         - Graduate School of Information Science and Technology
         - Department of Creative Informatics
     - title: Master (Information Science and Technology)
       institution: The University of Tokyo, Tokyo, Japan
-      year: 2019
+      year: 2019.03
       description:
         - Graduate School of Information Science and Technology
         - Department of Creative Informatics
     - title: Bachelor (Engineering)
       institution: The University of Tokyo, Tokyo, Japan
-      year: 2017
+      year: 2017.03
       description:
         - Faculty of Engineering
         - Department of Mechano-informatics
@@ -39,7 +39,7 @@
       year: 2023.04 - 2023.09
     - title: Project Assistant Professor
       institution: The University of Tokyo
-      year: 2022.04 - 2023.04
+      year: 2022.04 - 2023.03
 
 - title: Academic Interests
   type: nested_list
